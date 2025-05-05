@@ -31,7 +31,8 @@ git commit -m "Initial Commit"
 The commit message should be relevant to the change and always written in the present tense.
 
 ### 4. Make 3 separate meaningful changes to the file, committing each change with a proper commit message following Conventional Commits format:
-Now here we can do three separate changes which involves commit for each change we can name them as first Second and Third commits lets do this:
+Now here we can do three separate changes which involves commit for each change we can name them as First Second and Third commits lets do this:
+
  <img src="images/picture-5.png" alt="My Image" width="800">
 as we can see in the image we have done 3 edits and then commit those changes 
 
