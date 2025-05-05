@@ -56,6 +56,8 @@ git diff COMMIT_ID1 COMMIT_ID2
 Green text indicates added lines, while red text indicates removed lines.
 <img src="images/picture-7.png" alt="My Image" width="800">
 
+Successfully Completed Assignment 1.
+
 
 
 
